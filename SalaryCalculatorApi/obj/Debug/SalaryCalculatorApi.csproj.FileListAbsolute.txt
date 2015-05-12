@@ -1,0 +1,5 @@
+E:\Seip_smt\SalaryCalculatorApi\SalaryCalculatorApi\bin\Debug\SalaryCalculatorApi.exe.config
+E:\Seip_smt\SalaryCalculatorApi\SalaryCalculatorApi\obj\Debug\SalaryCalculatorApi.csprojResolveAssemblyReference.cache
+E:\Seip_smt\SalaryCalculatorApi\SalaryCalculatorApi\obj\Debug\SalaryCalculatorApi.Form1.resources
+E:\Seip_smt\SalaryCalculatorApi\SalaryCalculatorApi\obj\Debug\SalaryCalculatorApi.Properties.Resources.resources
+E:\Seip_smt\SalaryCalculatorApi\SalaryCalculatorApi\obj\Debug\SalaryCalculatorApi.csproj.GenerateResource.Cache
